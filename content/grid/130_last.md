@@ -1,4 +1,4 @@
-Kmom03
+Kmom03 Kopia
 ===============================
 
 Hur känns det att vara styrd till ett vertikalt grid, hämmande eller stödjande?

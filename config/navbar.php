@@ -32,12 +32,24 @@ return [
                 "url"   => $this->di->get("url")->create("om"),
                 "title" => t("Om studenten till denna kurs")
             ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typographic")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("grid"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
 
 
-/*
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -61,9 +73,28 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "om" => [
+                "text"  => t("About student"),
+                "url"   => $this->di->get("url")->create("om"),
+                "title" => t("Om studenten till denna kurs")
+            ],
+
+                "typography" => [
+                    "text"  => t("Typography"),
+                    "url"   => $this->di->get("url")->create("typography"),
+                    "title" => t("Typographic")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("grid"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
-*/
+
 
 
     /**

@@ -9,11 +9,16 @@ views:
                 type: content
                 route: block/byline
 ...
-Om Naad17
-==============================================
+En hemsida med anax flat
+===============================
 
 Hej!
 
-Jag heter Nathalie och är 23 år gammal. Har varit intresserad i programering samt datorer sedan jag var liten. Då min pappa och jag spelade video spel samt dator spel tillsammans. När jag var 15 år så byggde jag min första dator samt att min första lön gick till att skaffa ett monster dator. Spelar mycket spel på fritiden samt att försöker att lära mig mera saker. Brukar ha lite för många bollar i luften ibland men jag försöker att lära mig att inte ha detta.
+Den här hemsidan är gjord för BTH's *design* kurs med använding av anax flat.
 
-T.ex har hållt på med denna kursen samt försökt att laga 5 olika datorer/laptops. Två av dem fungerar nu iallafall samt en gick sönder helt. RIP.
+För information om studenten, gå in på about student.
+
+![alt text](https://i.ytimg.com/vi/PDfWeUP09TA/hqdefault.jpg)
+
+Best regards
+// Nathalie

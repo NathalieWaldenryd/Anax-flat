@@ -6,7 +6,7 @@
 return [
 
     "separator" => "------------------------------------------------",
-    
+
     "themes" => [
 
         "separator0" => "------------------------------------------------",
@@ -15,7 +15,7 @@ return [
             "title"      => "Minimal style, only the plain base",
             "class"      => "",
             "stylesheets" => [
-                "css/modules.min.css"
+                "css/style.min.css"
             ]
         ],
 

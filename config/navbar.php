@@ -45,6 +45,20 @@ return [
                 "title" => t("grid"),
                 "mark-if-parent" => true,
             ],
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme"),
+                "mark-if-parent" => true,
+            ],
         ],
     ],
 
@@ -90,6 +104,21 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("grid"),
+                "mark-if-parent" => true,
+            ],
+
+
+            "analysis" => [
+                "text"  => t("Analysis"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme"),
                 "mark-if-parent" => true,
             ],
         ],
